@@ -110,11 +110,14 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/casia.jpg"
-    date: "September 2015 - Today"
+    date: "September 2015 - Now"
     description: "Studying at CASIA"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2011 - August 2015"
-    description: "Started coding"
+  - image: "/img/timeline/swust.jpg"
+    date: "September 2011 - June 2015"
+    description: "Studying at SWUST"
+  - image: "/img/timeline/pascal.jpg"
+    date: "August 2008"
+    description: "Start coding"
 
 # First image of the Timeline
 
