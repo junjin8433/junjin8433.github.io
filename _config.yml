@@ -12,7 +12,7 @@ url: "https://junjin8433.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /junjin8433.github.io
+baseurl:
 
 # Google tracking id to track your visitors
 
@@ -70,7 +70,7 @@ apple-status-bar-style: "black"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False
 
 # Icons for Web App mode
 
