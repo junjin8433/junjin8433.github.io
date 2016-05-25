@@ -10,10 +10,13 @@ Vim is editors' god while emacs is god's editor.The default version of vim insta
 
 ## check vim version
 To check your vim version, type in terminal:
+
 ```bash
  vim --version | grep lua
 ```
+
 if it occurs to be like
+
 ```bash
  -lua
 ```
@@ -21,10 +24,12 @@ your vim is not lua-support.
 
 ## install vim-nox
 the most convenient way is installing vim-nox
+
 ```bash
 sudo apt-get install vim-nox
 ```
 now we check the vim version again, it will be like
+
 ```bash
 +lua
 ```
