@@ -25,6 +25,9 @@ C-up/down/left/right    resize the current pane
 
 ## Some user configurations
 
+### use vim mode
+set-window-option -g mode-keys vi
+
 ### Change prefix keys as C-a
 
 ```zsh
