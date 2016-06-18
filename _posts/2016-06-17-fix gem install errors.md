@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: fix gem install errors
-catefory: tech
+category: tech
 tags: ['tutorial']
 ---
 
