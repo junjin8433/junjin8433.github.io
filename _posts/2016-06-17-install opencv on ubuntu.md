@@ -8,7 +8,8 @@ tags: [ 'tutorial'  ]
 
 
 ## requirements
-Ubuntu  Opencv Cmake gcc
+Ubuntu, Opencv, Cmake, gcc.
+
 before install opencv, libgtk2.0-dev and pkg-config are the pre-required packages that should be setted first. If you install opencv without these two packages, it might cause some errors like:
 
 ```
@@ -24,6 +25,7 @@ $ apt-get install pkg-config
 
 ## Getting the Latest Stable OpenCV Version
  Go to the opencv Sourceforge page
+
  Grab the latest snapshot from Git repository
 
 ## Building OpenCV from Source Using CMake, Using the Command Line
